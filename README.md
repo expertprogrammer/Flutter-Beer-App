@@ -10,16 +10,6 @@ The app is a personal beer logging that allows you to enter every beer you have 
   <img src="https://github.com/benoitletondor/Beer-Me-Up/raw/develop/sc3.png" width="250"/>
 </p>
 
-### Download the app
-
-##### PlayStore:
-
-<a href='https://play.google.com/store/apps/details?id=com.benoitletondor.beermeup'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' width="170"/></a>
-
-##### AppStore:
-
-<a href='https://itunes.apple.com/us/app/beer-me-up-your-beer-logging/id1393867499'><img alt='Get it on AppStore' src='https://devimages-cdn.apple.com/app-store/marketing/guidelines/images/badge-download-on-the-app-store.svg' width="140"/></a>
-
 ### Motivations
 
 This project is born as a technical playground to learn Flutter. 
